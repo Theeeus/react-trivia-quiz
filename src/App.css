@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  margin: 0;
+}
+
+.questionsContainer, resultsContainer {
+  margin-top: 30px;
+  padding-bottom: 50px;
+}
+
+.questionHolder {
+  margin-bottom: 20px;
+}
+
+.questionHolder .questionNumber, .questionHolder .questionText {
+  display: inline-block;
+}
+
+.questionHolder .questionNumber {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.answerHolder {
+  display: block;
+}
+
+.answerBtn {
+  display: inline-block;
+  width: 150px;
+  height: 35px;
+  margin-top: 20px;
+  background: transparent;
+  border: 1px solid #555;
+}
+
+.answerBtn.active {
+  background: #555;
+  color: #fff;
+}
+
+.defaultBtn {
+  margin: 20px 0;
+}
