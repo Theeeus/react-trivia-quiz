@@ -11,7 +11,3 @@
 `cd quiz`
 `npm install`
 `npm start`
-
-
-## Live Site
-  [https://shrouded-refuge-44783.herokuapp.com](https://shrouded-refuge-44783.herokuapp.com)
